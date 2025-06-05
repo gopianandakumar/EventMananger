@@ -1,5 +1,3 @@
-# Create your models here.
-# event_management/models.py
 from django.db import models
 from django.core.exceptions import ValidationError
 from django.utils import timezone

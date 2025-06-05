@@ -1,5 +1,3 @@
-# event_management/services.py
-
 from rest_framework.exceptions import ValidationError
 from django.db import transaction
 from .models import Event, Attendee

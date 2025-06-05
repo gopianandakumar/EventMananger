@@ -1,4 +1,3 @@
-
 from jsonschema import ValidationError
 from rest_framework import generics, status
 from rest_framework.pagination import PageNumberPagination
